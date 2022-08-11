@@ -1,0 +1,15 @@
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\SistemaUsuarios.csproj.AssemblyReference.cache
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\SistemaUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\SistemaUsuarios.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\SistemaUsuarios.AssemblyInfo.cs
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\SistemaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0\SistemaUsuarios.exe
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0\SistemaUsuarios.deps.json
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0\SistemaUsuarios.runtimeconfig.json
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0\SistemaUsuarios.dll
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\bin\Debug\net6.0\SistemaUsuarios.pdb
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\SistemaUsuarios.dll
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\refint\SistemaUsuarios.dll
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\SistemaUsuarios.pdb
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\SistemaUsuarios.genruntimeconfig.cache
+C:\Users\Julian\source\repos\SistemaUsuarios\SistemaUsuarios\obj\Debug\net6.0\ref\SistemaUsuarios.dll
